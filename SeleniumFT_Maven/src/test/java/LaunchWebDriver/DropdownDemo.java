@@ -17,6 +17,8 @@ public class DropdownDemo {
 		driver.manage().window().maximize();
 		driver.get("https://www.amazon.com");
 		WebElement dropDown = driver.findElement(By.id("searchDropdownBox"));
+		
+		
 		Select s = new Select(dropDown);
 		//s.selectByIndex(4);
 		//s.selectByValue("search-alias=arts-crafts-intl-ship");
