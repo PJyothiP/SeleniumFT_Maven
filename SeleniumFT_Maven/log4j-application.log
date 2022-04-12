@@ -1,0 +1,8 @@
+2022-04-07 07:06:37,650  INFO [main] Log4jDemo:24 - Successfully completed webdriver manager
+2022-04-07 07:06:44,087  INFO [main] Log4jDemo:26 - launched chrome browser
+2022-04-07 07:06:55,320  INFO [main] Log4jDemo:28 - amazon website is displayed
+2022-04-07 07:06:55,325  INFO [main] Log4jDemo:30 - amazon page is launced
+2022-04-07 07:09:55,210  INFO [main] Log4jDemo:24 - Successfully completed webdriver manager
+2022-04-07 07:10:01,067  INFO [main] Log4jDemo:26 - launched chrome browser
+2022-04-07 07:10:11,855  INFO [main] Log4jDemo:28 - amazon website is displayed
+2022-04-07 07:10:11,877 ERROR [main] Log4jDemo:32 - Unable to launch amazon
